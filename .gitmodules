@@ -1,0 +1,3 @@
+[submodule "shared/ShareLibs"]
+	path = shared/ShareLibs
+	url = https://github.com/Ansters/ShareLibs
