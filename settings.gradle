@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "MainApp"
 include ':app'
+include ':core'
+project(':core').projectDir = new File('shared/ShareLibs/core')
